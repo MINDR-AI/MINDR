@@ -1,0 +1,11 @@
+packages:
+  # Core packages
+  - 'packages/core'
+  - 'packages/runtime'
+  - 'packages/studio'
+  - 'packages/guardian'
+  - 'packages/connect'
+  - 'packages/marketplace'
+  
+  # Examples
+  - 'examples/*' 
