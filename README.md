@@ -4,12 +4,12 @@
   <img src="assets/logo.png" alt="MINDR - Edge Intelligence Network" width="300" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
   
   <h3>Edge Intelligence Network</h3>
-</div>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![CI Status](https://img.shields.io/badge/CI-Passing-brightgreen.svg)](LICENSE)
-[![Coverage Status](https://img.shields.io/badge/Coverage-100%25-brightgreen.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](LICENSE)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+  [![CI Status](https://img.shields.io/badge/CI-Passing-brightgreen.svg)](LICENSE)
+  [![Coverage Status](https://img.shields.io/badge/Coverage-100%25-brightgreen.svg)](LICENSE)
+  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](LICENSE)
+</div>
 
 ## Overview
 
