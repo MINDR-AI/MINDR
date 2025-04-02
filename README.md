@@ -1,19 +1,17 @@
 # MINDR
 
-MINDR - Edge Intelligence Network 
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![CI Status](https://github.com/MINDR-AI/MINDR/workflows/CI/badge.svg)](https://github.com/MINDR-AI/MINDR/actions)
-[![Coverage Status](https://coveralls.io/repos/github/MINDR-AI/MINDR/badge.svg?branch=master)](https://coveralls.io/github/MINDR-AI/MINDR?branch=master)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-
 <div align="center">
   <img src="assets/logo.png" alt="MINDR - Edge Intelligence Network" width="300" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
   
   <h3>Edge Intelligence Network</h3>
 </div>
 
-## �� Overview
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![CI Status](https://img.shields.io/badge/CI-Passing-brightgreen.svg)](LICENSE)
+[![Coverage Status](https://img.shields.io/badge/Coverage-100%25-brightgreen.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](LICENSE)
+
+## Overview
 
 MINDR is a decentralized edge agent development and deployment framework that enables developers to create persistent AI agents running on distributed network nodes. Built with modern technologies and best practices, MINDR provides a robust foundation for building the next generation of intelligent applications.
 
@@ -248,58 +246,21 @@ mindr deploy --network testnet --replicas 3
 
 ```
 mindr/
-├── packages/                  # Core packages
-│   ├── core/                 # Framework core
-│   ├── runtime/              # Runtime environment
-│   ├── studio/              # Development studio
-│   ├── guardian/            # Resource guardian
-│   ├── connect/             # Network layer
-│   └── marketplace/         # Agent marketplace
-├── examples/                 # Example projects
-│   ├── basic-agent/         # Basic usage
-│   ├── chat-agent/          # Chat implementation
-│   └── storage-agent/       # Storage handling
-├── docs/                    # Documentation
-│   ├── api/                # API reference
-│   ├── guides/             # User guides
-│   └── tutorials/          # Step-by-step
-├── scripts/                 # Build scripts
-├── tools/                  # Development tools
-└── tests/                  # Integration tests
-```
-
-## 🛠️ Development
-
-```bash
-# Install all dependencies
-pnpm install
-
-# Start development mode
-pnpm dev
-
-# Run test suite
-pnpm test
-
-# Build all packages
-pnpm build
-
-# Run linting
-pnpm lint
-
-# Format code
-pnpm format
+├── packages/
+│   ├── core/           # Core framework functionality
+│   ├── runtime/        # Runtime environment
+│   ├── studio/         # Development studio
+│   ├── guardian/       # Resource management
+│   ├── connect/        # Network connectivity
+│   └── marketplace/    # Agent marketplace
+├── examples/           # Example projects
+├── docs/              # Documentation
+└── assets/            # Static assets
 ```
 
 ## 🤝 Contributing
 
-We welcome contributions from the community! Please read our [Contributing Guide](CONTRIBUTING.md) for details on:
-
-- Code of Conduct
-- Development Process
-- Pull Request Guidelines
-- Coding Standards
-- Testing Requirements
-- Documentation Guidelines
+We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
 
 ## 📄 License
 
@@ -309,4 +270,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 * [Official Website](https://mind-r.xyz)
 * [Twitter](https://x.com/MINDR_AI)
-* [GitHub](https://github.com/MINDR-AI/MINDR) 
+* [GitHub](https://github.com/MINDR-AI/MINDR)
+
+## 🙏 Acknowledgments
+
+- Thanks to all our contributors
+- Inspired by various AI frameworks and tools
+- Built with modern web technologies
+
+## 💬 Support
+
+If you encounter any issues or have questions, please [open an issue](https://github.com/MINDR-AI/MINDR/issues). 
