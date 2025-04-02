@@ -1,17 +1,19 @@
 # MINDR
 
+MINDR - Edge Intelligence Network 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![CI Status](https://github.com/MINDR-AI/MINDR/workflows/CI/badge.svg)](https://github.com/MINDR-AI/MINDR/actions)
+[![Coverage Status](https://coveralls.io/repos/github/MINDR-AI/MINDR/badge.svg?branch=master)](https://coveralls.io/github/MINDR-AI/MINDR?branch=master)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
 <div align="center">
   <img src="assets/logo.png" alt="MINDR - Edge Intelligence Network" width="300" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
   
   <h3>Edge Intelligence Network</h3>
-
-  [![GitHub license](https://img.shields.io/github/license/MINDR-AI/MINDR)](https://github.com/MINDR-AI/MINDR/blob/main/LICENSE)
-  [![CI Status](https://github.com/MINDR-AI/MINDR/workflows/CI/badge.svg)](https://github.com/MINDR-AI/MINDR/actions)
-  [![Coverage Status](https://coveralls.io/repos/github/MINDR-AI/MINDR/badge.svg?branch=main)](https://coveralls.io/github/MINDR-AI/MINDR?branch=main)
-  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 </div>
 
-## 🌟 Overview
+## �� Overview
 
 MINDR is a decentralized edge agent development and deployment framework that enables developers to create persistent AI agents running on distributed network nodes. Built with modern technologies and best practices, MINDR provides a robust foundation for building the next generation of intelligent applications.
 
@@ -303,22 +305,8 @@ We welcome contributions from the community! Please read our [Contributing Guide
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📚 Documentation
-
-Visit our [documentation site](https://docs.mind-r.xyz) for:
-
-- 📖 Comprehensive Guides
-- 🔍 API Reference
-- 📝 Tutorials
-- ⚡ Best Practices
-- 🎓 Advanced Topics
-- 🔧 Troubleshooting
-
 ## 🔗 Links
 
-- [Official Website](https://mind-r.xyz)
-- [Documentation](https://docs.mind-r.xyz)
-- [GitHub Repository](https://github.com/MINDR-AI/MINDR)
-- [Twitter](https://x.com/MINDR_AI)
-- [Issue Tracker](https://github.com/MINDR-AI/MINDR/issues)
-- [Security Policy](SECURITY.md) 
+* [Official Website](https://mind-r.xyz)
+* [Twitter](https://x.com/MINDR_AI)
+* [GitHub](https://github.com/MINDR-AI/MINDR) 
